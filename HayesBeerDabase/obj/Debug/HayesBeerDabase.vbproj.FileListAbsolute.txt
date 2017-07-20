@@ -1,0 +1,68 @@
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Form1.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Form2.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Resources.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbproj.GenerateResource.Cache
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\bin\Debug\Database1.sdf
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe.config
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.pdb
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.xml
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.exe
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.xml
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.pdb
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe.config
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.exe
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.xml
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.pdb
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\bin\Debug\Database1.sdf
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.pdb
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.xml
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Form1.resources
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Form2.resources
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Resources.resources
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Form3.resources
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe.config
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.exe
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.xml
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.pdb
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\Database1.sdf
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.pdb
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.xml
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Resources.resources
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbproj.GenerateResource.Cache
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.DatabaseForm.resources
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddCompanyForm.resources
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddProductForm.resources
+F:\Downloads\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.TitleForm.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe.config
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.exe
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.xml
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.pdb
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\Database1.sdf
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.pdb
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.xml
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.DatabaseForm.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddCompanyForm.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddProductForm.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.TitleForm.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Resources.resources
+F:\MNeum\Documents\Visual Studio 2012\Projects\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbproj.GenerateResource.Cache
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe.config
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.exe
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.xml
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.pdb
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\Database1.sdf
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.exe
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.pdb
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\bin\Debug\HayesBeerDabase.xml
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbprojResolveAssemblyReference.cache
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.DatabaseForm.resources
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddCompanyForm.resources
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.AddProductForm.resources
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.TitleForm.resources
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.Resources.resources
+C:\charlies school files\POS408\learningTeamWeek4\HayesBeerDabase\HayesBeerDabase\HayesBeerDabase\obj\Debug\HayesBeerDabase.vbproj.GenerateResource.Cache
